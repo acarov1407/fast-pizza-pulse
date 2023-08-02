@@ -6,11 +6,10 @@ import Cart from "./pages/Cart";
 import Order, { loader as orderLoader } from "./pages/Order";
 import { action as orderAction } from "./components/order/UpdateOrder";
 import CreateOrder from "./pages/CreateOrder";
-
-
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 
 const router = createBrowserRouter([
+
   {
     element: <AppLayout />,
     errorElement: <ErrorLayout />,

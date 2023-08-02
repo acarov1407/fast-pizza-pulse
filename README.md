@@ -4,13 +4,15 @@
 </div>
 
 # Fast Pizza Pulse
-![image](https://github.com/acarov1407/fast-pizza-pulse/assets/118088808/65a7463a-1a61-49a5-8f67-01664dc7e2b4)
+![image](https://github.com/acarov1407/fast-pizza-pulse/assets/118088808/2d20a817-fc16-439a-8188-5501ac78c1aa)
 <br></br>
-<strong>Enlace del proyecto: </strong> https://fast-pizza-pulse.netlify.app/
-
+<strong>Project Link: </strong> https://fast-pizza-pulse.netlify.app/
 
 ## About
 Fast Pizza Pulse is a web application designed for the fictitious company "Fast Pizza Pulse", allowing users to view the available pizza menu, add pizzas to the shopping cart, place orders with contact information, and an option to mark a priority for faster delivery with an additional cost. Additionally, users can track their orders using a unique order ID, checking the estimated delivery time and the total cost.
+
+## Video :movie_camera:
+You can watch a video showcasing the features of the project at the following link: https://github.com/acarov1407/fast-pizza-pulse/assets/118088808/88eb93e1-ce4a-46cc-a2cb-dcae21abb468
 
 ## Features :wrench:
 - View the menu of available pizzas (obtained from the API).
